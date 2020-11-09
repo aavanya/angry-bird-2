@@ -1,2 +1,2 @@
-# angry-bird-2
-play it and kill the enemy 
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
